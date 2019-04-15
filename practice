@@ -5,5 +5,9 @@ third line is added by gourav
 =======
 second line is added
 >>>>>>> 33bb1a716daca540924d341fa0bd0e0f240117d8
+<<<<<<< HEAD
 this is my new branch called gaurav
 this is gaurav branch
+=======
+this is rajat branch
+>>>>>>> aee23eb963344403d9250f2c5b26b7687d5b0f6f
